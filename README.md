@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 ## SuperFlyz
 🌱 I’m currently learning web development with The School of Code (https://www.schoolofcode.co.uk).
 
-**My interests are:**
-🏡 Family life
-💰 Cryptocurrency
-🖼️ NFTs
-🌍 The Metaverse
-🥽 Virtual reality
-🔐 Computer security
-👾 Computer gaming (don't have much time for this nowadays)
-📱 Gadgets and technology
-🎬 Movies (especially Sci-Fi and Kung Fu movies)
-📖 Reading
-⛳️ Golf
-🏎️ Cars
+**My interests are:**  
+🏡 Family life  
+💰 Cryptocurrency  
+🖼️ NFTs  
+🌍 The Metaverse  
+🥽 Virtual reality  
+🔐 Computer security  
+👾 Computer gaming (don't have much time for this nowadays)  
+📱 Gadgets and technology  
+🎬 Movies (especially Sci-Fi and Kung Fu movies)  
+📖 Reading  
+⛳️ Golf  
+🏎️ Cars  
