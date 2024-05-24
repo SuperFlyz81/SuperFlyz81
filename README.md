@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 **My interests are:**  
 🏡 Family life  
-💰 Cryptocurrency  
-🖼️ NFTs  
-🌍 The Metaverse  
+👨‍💻 Computer programming  
+💰 Cryptocurrency, DeFi, NFTs, the Metaverse, and all things Web3  
 🥽 Virtual reality  
 🔐 Computer security  
 👾 Computer gaming (don't have much time for this nowadays)  
 📱 Gadgets and technology  
-🎬 Movies (especially Sci-Fi and Kung Fu movies)  
-📖 Reading  
+🎬 Movies (especially Sci-Fi and Technology movies)  
+📖 Reading (Fantasy, Sci-Fi, and Non-fiction)  
 ⛳️ Golf  
 🏎️ Cars  
