@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Pieter Smith
+# Pieter Smith
 🌱 I’m currently learning web development with The School of Code (https://www.schoolofcode.co.uk).
 
 **My interests are:**  
