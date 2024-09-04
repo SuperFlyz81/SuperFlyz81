@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 📖 Reading (Fantasy, Sci-Fi, and Non-fiction)  
 ⛳️ Golf  
 🏎️ Cars  
+☕️ Coffee  
